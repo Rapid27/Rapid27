@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rapid27
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java programming
+- 🌱 I’m currently learning Java Springboot Framework
+- 💞️ I’m looking to collaborate on Java Web Applications
 - 📫 How to reach me ..maringiretanaka@gmail.com
 
 <!---
